@@ -10,12 +10,12 @@ public static class Common
 {
     /// The OAuth2.0 Client ID of your project.
     /// </summary>
-    public static readonly string ClientID = "611599406119-4fbdib53lrtjojc9fdsjvfi29797nkkh.apps.googleusercontent.com";
+    public static readonly string ClientID = "{ClientId}";
 
     /// <summary>
     /// The OAuth2.0 Client secret of your project.
     /// </summary>
-    public static readonly string ClientSecret = "wLhuTVnCPd_X570EOjKar8N-";
+    public static readonly string ClientSecret = "{ClientSecret}";
 
     /// <summary>
     /// The OAuth2.0 scopes required by your project.
